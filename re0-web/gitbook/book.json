@@ -1,11 +1,11 @@
 {
     "title" : "RE0",
-    "author" : "EXP",
+    "author" : "mhy9989",
     "description" : "RE0：从零开始的异世界生活 （WEB版）",
     "language" : "en",
     "links" : {
         "sidebar" : {
-            "EXP's Github" : "https://github.com/mhy9989/re0-web"
+            "mhy9989's Github" : "https://github.com/mhy9989/re0-web"
         }
     },
 
@@ -108,13 +108,13 @@
             "bookmark": "/res/img/logo/favicon_48x48.ico",
             "appleTouch": "/res/img/logo/favicon_48x48.ico",
             "appleTouchMore": {
-                "64x64": "/res/img/logo/favicon_48x48.ico",
-                "128x128": "/res/img/logo/favicon_48x48.ico",
-                "512x512": "/res/img/logo/favicon_48x48.ico.png"
+                "64x64": "/res/img/logo/favicon_64x64.ico",
+                "128x128": "/res/img/logo/favicon_128x128.ico",
+                "512x512": "/res/img/logo/favicon_512x512.ico.png"
             }
         },
         "insert-logo": {
-            "url": "/res/img/logo/exp-blog - logo-min.png",
+            "url": "/res/img/logo/mhy9989-blog - logo-min.png",
             "style": "background: none; min-height: 30px; max-height: 50px"
         },
         "hide-element": {
@@ -162,10 +162,10 @@
         },
         "page-copyright": {
           "description": "modified at",
-          "signature": "EXP",
+          "signature": "mhy9989",
           "wisdom": "Designer, Frontend Developer & overall web enthusiast",
           "format": "YYYY-MM-dd hh:mm:ss",
-          "copyright": "Copyright &#169; EXP",
+          "copyright": "Copyright &#169; mhy9989",
           "timeColor": "#666",
           "copyrightColor": "#666",
           "utcOffset": "8",
@@ -173,17 +173,17 @@
           "noPowered": false
         },
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy EXP 2021",
+            "copyright":"Copyright &copy mhy9989 2021",
             "modify_label": "最后修改时间 ： ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "rss": {
             "title": "RE0 WEB",
             "description": "RE0：从零开始的异世界生活",
-            "author": "EXP",
+            "author": "mhy9989",
             "site_url": "https://git.mhy9989.top/re0-web/gitbook/book/",
             "feed_url": "https://git.mhy9989.top/re0-web/gitbook/book/rss.xml",
-            "copyright": "EXP",
+            "copyright": "mhy9989",
             "categories": [
                 "gitbook"
             ]
