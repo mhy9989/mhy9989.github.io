@@ -1,7 +1,7 @@
-# About
+# About mhy9989
 
 
-![](D:\mhy9989.top\static\images\about\全员图.jpg)
+{{< image src="../images/about/全员图.jpg" caption="**この素晴らしい世界に祝福を**" >}}
 
 {{< music server="netease" type="song" id="424265002" >}}
 
