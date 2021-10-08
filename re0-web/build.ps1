@@ -1,13 +1,21 @@
 # Github Pages 要求所发布的 Html 路径不能有下划线，否则无法解析
 # 此脚本的目的是把 GitBook 生成的 _book 目录复制到 book
 
+If((Test-Path 'gitbook/book')) {
 Write-Output "Remove gitbook/book ..."
 Remove-Item gitbook/book -recurse
 Start-Sleep 1
+}
+
+If((Test-Path 'gitbook/_book')) {
+Write-Output "Remove gitbook/_book ..."
+Remove-Item gitbook/_book -recurse
+Start-Sleep 1
+}
 
 If(!(Test-Path 'gitbook/node_modules')) {
-    echo "Download nodejs module ..."
-    git clone https://github.com/mhy9989/node_modules gitbook/node_modules
+    echo "Copy nodejs module ..."
+    Copy-Item node_modules gitbook/node_modules -recurse -force
     Sleep 2
 }
 
