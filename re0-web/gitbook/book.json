@@ -96,7 +96,7 @@
         },
         "sitemap-general": {
             "//": "所生成的站点地图路径前缀",
-            "prefix": "https://git.mhy9989.top/re0-web/gitbook/book/"
+            "prefix": "https://git.mhy9989.cn/re0-web/gitbook/book/"
         },
         "simple-page-toc": {
             "//": "所生成的章节目录最大深度",
@@ -110,7 +110,7 @@
             "appleTouchMore": {
                 "64x64": "/res/img/logo/favicon_64x64.ico",
                 "128x128": "/res/img/logo/favicon_128x128.ico",
-                "512x512": "/res/img/logo/favicon_512x512.ico.png"
+                "512x512": "/res/img/logo/favicon_512x512.ico"
             }
         },
         "insert-logo": {
@@ -173,7 +173,7 @@
           "noPowered": false
         },
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy mhy9989 2021",
+            "copyright":"Copyright &copy mhy9989 2023",
             "modify_label": "最后修改时间 ： ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -181,8 +181,8 @@
             "title": "RE0 WEB",
             "description": "RE0：从零开始的异世界生活",
             "author": "mhy9989",
-            "site_url": "https://git.mhy9989.top/re0-web/gitbook/book/",
-            "feed_url": "https://git.mhy9989.top/re0-web/gitbook/book/rss.xml",
+            "site_url": "https://git.mhy9989.cn/re0-web/gitbook/book/",
+            "feed_url": "https://git.mhy9989.cn/re0-web/gitbook/book/rss.xml",
             "copyright": "mhy9989",
             "categories": [
                 "gitbook"

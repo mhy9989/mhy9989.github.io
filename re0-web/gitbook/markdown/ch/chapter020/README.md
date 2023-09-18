@@ -29,8 +29,8 @@
 - [26　『第三个选择』](26.html)
 - [27　『伤痛』](27.html)
 - [28　『觉悟与告白』](28.html)
-- [29　『菜月昴的重生』](29.html)
-- [30　『菜月昴的丑态』](30.html)
+- [29　『菜月・昴的重生』](29.html)
+- [30　『菜月・昴的丑态』](30.html)
 - [31　『小丑的恸哭』](31.html)
 - [32　『哭着、哭喊着、不哭了之后』](32.html)
 - [33　『见到光明与模糊之影』](33.html)
@@ -54,6 +54,6 @@
 - [后记　『篇章插图』](99.html)
 
 
-| <img width="500" src="/res/img/article/chapter020/00-b.jpg" /> | <img width="500" src="/res/img/article/chapter020/00-d.jpg" /> |
+| <img width="500" src="/res/imgs/article/chapter020/00-b.jpg" /> | <img width="500" src="/res/imgs/article/chapter020/00-d.jpg" /> |
 |:------:|:------:|
 | 　 | 　 |
